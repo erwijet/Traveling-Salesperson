@@ -1,0 +1,9 @@
+p:\projects\Travling Salesperson\Travling Salesperson\bin\Debug\Travling Salesperson.exe.config
+p:\projects\Travling Salesperson\Travling Salesperson\bin\Debug\Travling Salesperson.exe
+p:\projects\Travling Salesperson\Travling Salesperson\bin\Debug\Travling Salesperson.pdb
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling Salesperson.csprojResolveAssemblyReference.cache
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling_Salesperson.Form1.resources
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling_Salesperson.Properties.Resources.resources
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling Salesperson.csproj.GenerateResource.Cache
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling Salesperson.exe
+p:\projects\Travling Salesperson\Travling Salesperson\obj\Debug\Travling Salesperson.pdb
